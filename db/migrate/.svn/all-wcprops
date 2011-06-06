@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/aaa/!svn/ver/17/TodoList/db/migrate
+END
+20100519050159_create_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/aaa/!svn/ver/19/TodoList/db/migrate/20100519050159_create_tasks.rb
+END
+20100519051747_create_task_groups.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/aaa/!svn/ver/17/TodoList/db/migrate/20100519051747_create_task_groups.rb
+END
+20100519044944_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/aaa/!svn/ver/17/TodoList/db/migrate/20100519044944_create_users.rb
+END
+20100526052310_create_comments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/aaa/!svn/ver/20/TodoList/db/migrate/20100526052310_create_comments.rb
+END
+20100520073325_create_sessions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/aaa/!svn/ver/17/TodoList/db/migrate/20100520073325_create_sessions.rb
+END
+20100519050629_create_user_task_lists.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/aaa/!svn/ver/17/TodoList/db/migrate/20100519050629_create_user_task_lists.rb
+END

@@ -1,0 +1,20 @@
+<fieldset class="ui-widget ui-widget-content ui-corner-all">
+  <legend class="ui-widget ui-widget-header ui-corner-all" style="padding: 0.5em;">Comment</legend>
+  <% form_for :comment,@comment,
+    :url => {:action => fAction,
+            :controller => "comment"},
+            :html => {:id => 'commentForm' } do |f| %>
+    <p>
+      <%= f.hidden_field :id %>
+    </p>
+    <p>
+      <%= f.text_area :comment,:cols => 100, :rows => 10 %>
+    </p>
+    <p>
+      <%= f.hidden_field :task_id,:value=>@task.id %>
+    </p>
+    <p><span id="btnSubmit"><%= f.submit "save" %></span></p>
+    <span id="ajax_img" style="display: none"><%=image_tag "ajax-loader.gif"%></span>
+  <% end %>
+</fieldset>
+

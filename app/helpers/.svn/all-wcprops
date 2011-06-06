@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/aaa/!svn/ver/17/TodoList/app/helpers
+END
+task_group_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/aaa/!svn/ver/17/TodoList/app/helpers/task_group_helper.rb
+END
+user_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/aaa/!svn/ver/17/TodoList/app/helpers/user_helper.rb
+END
+task_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/aaa/!svn/ver/17/TodoList/app/helpers/task_helper.rb
+END
+comment_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/aaa/!svn/ver/20/TodoList/app/helpers/comment_helper.rb
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/aaa/!svn/ver/17/TodoList/app/helpers/application_helper.rb
+END
+group_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/aaa/!svn/ver/17/TodoList/app/helpers/group_helper.rb
+END

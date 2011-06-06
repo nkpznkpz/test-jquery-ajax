@@ -1,0 +1,1439 @@
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:34:41) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 114ms (View: 29, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:34:45) [POST]
+  Parameters: {"authenticity_token"=>"5n 81MGjGhOucU5zL8w uWdfIrl0tjgdjv517gwSCII="}
+Completed in 31ms (View: 1, DB: 19) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:36:32) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 14ms (View: 7, DB: 7) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:36:37) [POST]
+  Parameters: {"authenticity_token"=>"5n 81MGjGhOucU5zL8w uWdfIrl0tjgdjv517gwSCII="}
+Completed in 11ms (View: 1, DB: 5) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:36:49) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 15ms (View: 7, DB: 7) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:36:53) [POST]
+  Parameters: {"authenticity_token"=>"5n 81MGjGhOucU5zL8w uWdfIrl0tjgdjv517gwSCII="}
+Completed in 15ms (View: 1, DB: 6) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:37:19) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 105ms (View: 19, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:37:21) [POST]
+  Parameters: {"authenticity_token"=>"5n 81MGjGhOucU5zL8w uWdfIrl0tjgdjv517gwSCII="}
+Completed in 31ms (View: 1, DB: 18) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:41:48) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 13ms (View: 7, DB: 6) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:41:51) [POST]
+  Parameters: {"authenticity_token"=>"5n 81MGjGhOucU5zL8w uWdfIrl0tjgdjv517gwSCII="}
+Completed in 26ms (View: 1, DB: 10) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:42:12) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 8ms (View: 4, DB: 4) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:42:15) [POST]
+  Parameters: {"authenticity_token"=>"5n 81MGjGhOucU5zL8w uWdfIrl0tjgdjv517gwSCII="}
+Completed in 11ms (View: 1, DB: 8) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:42:46) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 90ms (View: 9, DB: 7) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:42:47) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:42:48) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:42:55) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 7ms (View: 2, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:42:57) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:42:59) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:55:49) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 20ms (View: 4, DB: 15) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:55:50) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:55:52) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:56:12) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 92ms (View: 10, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:58:08) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 10ms (View: 4, DB: 6) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:58:32) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 89ms (View: 9, DB: 7) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:58:33) [GET]
+
+ActionController::RoutingError (No route matches "/public/task/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:58:35) [GET]
+
+ActionController::RoutingError (No route matches "/public/task/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:59:07) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 10ms (View: 5, DB: 4) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:59:08) [GET]
+
+ActionController::RoutingError (No route matches "/public/task/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:59:10) [GET]
+
+ActionController::RoutingError (No route matches "/public/task/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 15:59:29) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 89ms (View: 9, DB: 7) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:59:31) [GET]
+
+ActionController::RoutingError (No route matches "/public/javascripts/task/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-01 15:59:32) [GET]
+
+ActionController::RoutingError (No route matches "/public/javascripts/task/taskIndex.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:00:08) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 91ms (View: 10, DB: 6) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:00:10) [POST]
+  Parameters: {"authenticity_token"=>"5n 81MGjGhOucU5zL8w uWdfIrl0tjgdjv517gwSCII="}
+Completed in 25ms (View: 1, DB: 15) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:01:17) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 7ms (View: 4, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:01:30) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 91ms (View: 10, DB: 8) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:02:20) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 95ms (View: 9, DB: 8) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:03:44) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 91ms (View: 9, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:04:28) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 89ms (View: 9, DB: 9) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:04:33) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 6ms (View: 3, DB: 4) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:04:59) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 12ms (View: 5, DB: 5) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:05:14) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 90ms (View: 8, DB: 8) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:05:22) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 7ms (View: 3, DB: 6) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:06:35) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 88ms (View: 9, DB: 7) | 200 OK [http://localhost/]
+
+
+Processing UserController#logout (for 127.0.0.1 at 2010-06-01 16:06:39) [GET]
+Redirected to http://localhost:3000/login
+Completed in 6ms (DB: 3) | 302 Found [http://localhost/logout]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:06:42) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 20ms (View: 18, DB: 4) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:06:57) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 11ms (View: 7, DB: 3) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:07:15) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 6ms (View: 4, DB: 1) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:07:33) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 10ms (View: 7, DB: 2) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:08:50) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 6ms (View: 4, DB: 3) | 200 OK [http://localhost/login]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:09:05) [GET]
+Redirected to http://localhost:3000/login
+Filter chain halted as [:protect] rendered_or_redirected.
+Completed in 6ms (DB: 6) | 302 Found [http://localhost/]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:09:06) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 15ms (View: 12, DB: 4) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:10:38) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 11ms (View: 7, DB: 4) | 200 OK [http://localhost/login]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:13:35) [GET]
+Redirected to http://localhost:3000/login
+Filter chain halted as [:protect] rendered_or_redirected.
+Completed in 6ms (DB: 4) | 302 Found [http://localhost/]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:13:36) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 27ms (View: 20, DB: 5) | 200 OK [http://localhost/login]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:14:10) [GET]
+Redirected to http://localhost:3000/login
+Filter chain halted as [:protect] rendered_or_redirected.
+Completed in 2ms (DB: 4) | 302 Found [http://localhost/]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:14:11) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 3ms (View: 2, DB: 4) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:14:17) [POST]
+  Parameters: {"authenticity_token"=>"UamDDfm0246VfcJWGAInkQPKlpmH6FM0eoRKFkv43SY=", "txtPassword"=>"ppp", "txtEmail"=>"ppp@ppp.ppp"}
+Redirected to http://localhost:3000/
+Completed in 16ms (DB: 74) | 302 Found [http://localhost/login]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:14:18) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 29ms (View: 18, DB: 5) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:14:20) [POST]
+  Parameters: {"authenticity_token"=>"UamDDfm0246VfcJWGAInkQPKlpmH6FM0eoRKFkv43SY="}
+Completed in 27ms (View: 1, DB: 13) | 200 OK [http://localhost/task/index]
+
+
+Processing UserController#logout (for 127.0.0.1 at 2010-06-01 16:14:27) [GET]
+Redirected to http://localhost:3000/login
+Completed in 1ms (DB: 2) | 302 Found [http://localhost/logout]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:14:30) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 10ms (View: 7, DB: 2) | 200 OK [http://localhost/login]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:15:57) [GET]
+Redirected to http://localhost:3000/login
+Filter chain halted as [:protect] rendered_or_redirected.
+Completed in 6ms (DB: 3) | 302 Found [http://localhost/]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:15:58) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 42ms (View: 35, DB: 3) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:16:43) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:16:51) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 11ms (View: 7, DB: 4) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:16:57) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "txtPassword"=>"ppp", "txtEmail"=>"ppp@ppp.ppp"}
+Redirected to http://localhost:3000/
+Completed in 22ms (DB: 19) | 302 Found [http://localhost/login]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:16:58) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 40ms (View: 28, DB: 5) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:17:00) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8="}
+Completed in 15ms (View: 1, DB: 6) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:17:08) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 7ms (View: 4, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:17:12) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8="}
+Completed in 10ms (View: 0, DB: 6) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:19:29) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 12ms (View: 2, DB: 6) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:19:32) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8="}
+Completed in 10ms (View: 0, DB: 5) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-01 16:26:22) [GET]
+  Parameters: {"task_name"=>"vdvdvdv", "id"=>"30"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 29ms (View: 22, DB: 6) | 200 OK [http://localhost/task/vdvdvdv/30]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 16:26:25) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "id"=>"30"}
+Completed in 229ms (View: 1, DB: 7) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 16:32:31) [POST]
+  Parameters: {"task_id"=>"30", "authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "comment"=>"dflkjhgofdhgo"}
+Completed in 4ms (View: 1, DB: 4) | 200 OK [http://localhost/comment/create]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-01 16:33:45) [GET]
+  Parameters: {"task_name"=>"vdvdvdv", "id"=>"30"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 7ms (View: 3, DB: 3) | 200 OK [http://localhost/task/vdvdvdv/30]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 16:33:47) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "id"=>"30"}
+Completed in 14ms (View: 1, DB: 47) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 16:33:51) [POST]
+  Parameters: {"task_id"=>"30", "authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "comment"=>"dflkjhgofdhgo"}
+Completed in 22ms (View: 0, DB: 9) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 16:33:52) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "id"=>"30"}
+Completed in 25ms (View: 1, DB: 48) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 16:33:56) [POST]
+  Parameters: {"task_id"=>"30", "authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "comment"=>"tytyty"}
+Completed in 23ms (View: 1, DB: 5) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 16:33:58) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "id"=>"30"}
+Completed in 27ms (View: 1, DB: 54) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:34:04) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 12ms (View: 6, DB: 2) | 200 OK [http://localhost/task]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:34:07) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8="}
+Completed in 20ms (View: 1, DB: 53) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-01 16:34:11) [GET]
+  Parameters: {"task_name"=>"fdfdf", "id"=>"23"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 13ms (View: 6, DB: 58) | 200 OK [http://localhost/task/fdfdf/23]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 16:34:14) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "id"=>"23"}
+Completed in 4ms (View: 0, DB: 6) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 16:34:19) [POST]
+  Parameters: {"task_id"=>"23", "authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "comment"=>"fdggfgf\n"}
+Completed in 17ms (View: 1, DB: 7) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 16:34:20) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "id"=>"23"}
+Completed in 14ms (View: 2, DB: 58) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 16:34:27) [POST]
+  Parameters: {"task_id"=>"23", "authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "comment"=>"tytyuu"}
+Completed in 68ms (View: 2, DB: 52) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 16:34:28) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8=", "id"=>"23"}
+Completed in 17ms (View: 2, DB: 31) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:34:43) [POST]
+  Parameters: {"authenticity_token"=>"ZBuMMEwrJVNd/QcPNYnFv0Dds2AGFym1TAom3eKG1X8="}
+Completed in 23ms (View: 0, DB: 5) | 200 OK [http://localhost/task/index]
+
+
+Processing UserController#logout (for 127.0.0.1 at 2010-06-01 16:34:46) [GET]
+Redirected to http://localhost:3000/login
+Completed in 0ms (DB: 50) | 302 Found [http://localhost/logout]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:34:52) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 10ms (View: 6, DB: 3) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-01 16:35:00) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO+iZWI=", "txtPassword"=>"ppp", "txtEmail"=>"ppp@ppp.ppp"}
+Redirected to http://localhost:3000/
+Completed in 7ms (DB: 52) | 302 Found [http://localhost/login]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:35:01) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 8ms (View: 4, DB: 5) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:35:04) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI="}
+Completed in 18ms (View: 1, DB: 3) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#update_star (for 127.0.0.1 at 2010-06-01 16:39:22) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"30"}
+Completed in 16ms (View: 1, DB: 56) | 200 OK [http://localhost/task/update_star]
+
+
+Processing TaskController#update_star (for 127.0.0.1 at 2010-06-01 16:39:28) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"29"}
+Completed in 12ms (View: 1, DB: 5) | 200 OK [http://localhost/task/update_star]
+
+
+Processing TaskController#update_star (for 127.0.0.1 at 2010-06-01 16:39:32) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"28"}
+Completed in 16ms (View: 0, DB: 68) | 200 OK [http://localhost/task/update_star]
+
+
+Processing TaskController#update_star (for 127.0.0.1 at 2010-06-01 16:39:37) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"29"}
+Completed in 16ms (View: 1, DB: 57) | 200 OK [http://localhost/task/update_star]
+
+
+Processing TaskController#delete (for 127.0.0.1 at 2010-06-01 16:39:50) [POST]
+  Parameters: {"taskid"=>"30", "authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI="}
+Completed in 53ms (View: 1, DB: 104) | 200 OK [http://localhost/task/delete]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 16:39:52) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI="}
+Completed in 21ms (View: 2, DB: 20) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 17:48:25) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 65ms (View: 57, DB: 10) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 17:48:29) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI="}
+Completed in 13ms (View: 0, DB: 6) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-01 17:48:33) [POST]
+  Parameters: {"name"=>"ASAS", "priority"=>"0", "authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "description"=>"asasa"}
+Completed in 21ms (View: 2, DB: 8) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 17:48:34) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI="}
+Completed in 20ms (View: 1, DB: 6) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-01 17:48:44) [POST]
+  Parameters: {"name"=>"zzz", "priority"=>"0", "authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "description"=>"zz"}
+Completed in 7ms (View: 0, DB: 6) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-01 17:48:45) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI="}
+Completed in 20ms (View: 1, DB: 4) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-01 17:48:48) [GET]
+  Parameters: {"task_name"=>"zzz", "id"=>"37"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 13ms (View: 5, DB: 6) | 200 OK [http://localhost/task/zzz/37]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 17:48:50) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"37"}
+Completed in 14ms (View: 1, DB: 10) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 17:48:55) [POST]
+  Parameters: {"task_id"=>"37", "authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "comment"=>"ppppppppppp"}
+Completed in 34ms (View: 1, DB: 29) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 17:48:56) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"37"}
+Completed in 15ms (View: 1, DB: 5) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 18:01:12) [POST]
+  Parameters: {"task_id"=>"37", "authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "comment"=>"dfighvvlj"}
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+
+Rendering rescues/layout (unprocessable_entity)
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-01 18:15:21) [GET]
+  Parameters: {"task_name"=>"zzz", "id"=>"37"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 14ms (View: 3, DB: 12) | 200 OK [http://localhost/task/zzz/37]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 18:15:23) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"37"}
+Completed in 15ms (View: 1, DB: 9) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 18:15:26) [POST]
+  Parameters: {"task_id"=>"37", "authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "comment"=>"d"}
+Completed in 21ms (View: 1, DB: 9) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 18:15:27) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"37"}
+Completed in 12ms (View: 1, DB: 5) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 18:15:48) [POST]
+  Parameters: {"task_id"=>"37", "authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "comment"=>"bvbv"}
+Completed in 13ms (View: 1, DB: 7) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 18:15:49) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"37"}
+Completed in 11ms (View: 1, DB: 5) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 18:17:25) [POST]
+  Parameters: {"task_id"=>"37", "authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "comment"=>"qqqq"}
+Completed in 78ms (View: 1, DB: 5) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 18:17:26) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"37"}
+Completed in 16ms (View: 0, DB: 4) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-01 18:19:35) [POST]
+  Parameters: {"task_id"=>"37", "authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "comment"=>"ogfthjogfhj"}
+Completed in 20ms (View: 1, DB: 6) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-01 18:19:37) [POST]
+  Parameters: {"authenticity_token"=>"NA2upggQ8m99led7vOMTfukMsIiYTyLnRpGjKO iZWI=", "id"=>"37"}
+Completed in 16ms (View: 1, DB: 5) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 10:07:52) [GET]
+Redirected to http://localhost:3000/login
+Filter chain halted as [:protect] rendered_or_redirected.
+Completed in 2355ms (DB: 47) | 302 Found [http://localhost/]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-02 10:07:56) [GET]
+Rendering template within layouts/user
+Rendering user/login
+Completed in 46ms (View: 31, DB: 15) | 200 OK [http://localhost/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2010-06-02 10:08:06) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "txtPassword"=>"ppp", "txtEmail"=>"ppp@ppp.ppp"}
+Redirected to http://localhost:3000/
+Completed in 78ms (DB: 78) | 302 Found [http://localhost/login]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 10:08:07) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 10:08:10) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y="}
+Completed in 109ms (View: 0, DB: 78) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-02 10:08:12) [GET]
+  Parameters: {"task_name"=>"ASAS", "id"=>"36"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/task/ASAS/36]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 10:08:15) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 47ms (View: 16, DB: 31) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 10:08:17) [POST]
+  Parameters: {"task_id"=>"36", "authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "comment"=>"tytytyty"}
+Completed in 499ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 10:08:19) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 15ms (View: 15, DB: 15) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-02 10:08:49) [GET]
+  Parameters: {"task_name"=>"ASAS", "id"=>"36"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://localhost/task/ASAS/36]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 10:08:52) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 31ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 10:09:22) [POST]
+  Parameters: {"task_id"=>"36", "authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "comment"=>"trtrtrttytyty"}
+Completed in 15ms (View: 0, DB: 16) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 10:09:23) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 10:09:33) [POST]
+  Parameters: {"task_id"=>"36", "authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "comment"=>"yuyuyuyu"}
+Completed in 31ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 10:09:34) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 15ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 10:16:57) [POST]
+  Parameters: {"task_id"=>"36", "authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "comment"=>"dfgdfgdfgdfgdfg"}
+Completed in 63ms (View: 0, DB: 16) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 10:16:58) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 10:22:44) [POST]
+  Parameters: {"task_id"=>"36", "authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "comment"=>"ruytutyutyutu"}
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/create]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-02 10:23:40) [GET]
+  Parameters: {"task_name"=>"ASAS", "id"=>"36"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 15ms (View: 15, DB: 16) | 200 OK [http://localhost/task/ASAS/36]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 10:23:43) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 10:23:48) [POST]
+  Parameters: {"task_id"=>"36", "authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "comment"=>"i"}
+Completed in 16ms (View: 0, DB: 62) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 10:23:49) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 15ms (View: 0, DB: 47) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 10:41:27) [POST]
+  Parameters: {"task_id"=>"36", "authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "comment"=>"tyuytuytuytuytutyu"}
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 10:41:28) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 11:46:40) [POST]
+  Parameters: {"task_id"=>"36", "authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "comment"=>"tytytyty"}
+Completed in 18ms (View: 0, DB: 8) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 11:46:41) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"36"}
+Completed in 27ms (View: 2, DB: 15) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:23:13) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 8ms (View: 3, DB: 7) | 200 OK [http://localhost/task/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:23:16) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y="}
+Completed in 32ms (View: 2, DB: 9) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:23:33) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 10ms (View: 5, DB: 2) | 200 OK [http://localhost/task/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:23:37) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y="}
+Completed in 18ms (View: 0, DB: 7) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:23:41) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 12ms (View: 7, DB: 2) | 200 OK [http://localhost/task/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:23:43) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y="}
+Completed in 15ms (View: 3, DB: 3) | 200 OK [http://localhost/task/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:24:27) [GET]
+Rendering template within layouts/task
+Rendering task/index
+
+ActionView::TemplateError (undefined method `each' for nil:NilClass) on line #22 of app/views/task/index.html.erb:
+19: <div id="showEdit"></div>
+20: <div class="confirm" style="display: none" title="Delete Task">Are you sure?</div>
+21: <div id="taskData">
+22:   <%for task in @tasks %>
+23:     <div class="task-container" id="task-id<%=@tasks.id%>">
+24:       <%  if @tasks.star
+25:         starClass = :star_2
+
+    app/views/task/index.html.erb:22
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:25:22) [GET]
+Rendering template within layouts/task
+Rendering task/index
+
+ActionView::TemplateError (undefined method `each' for nil:NilClass) on line #22 of app/views/task/index.html.erb:
+19: <div id="showEdit"></div>
+20: <div class="confirm" style="display: none" title="Delete Task">Are you sure?</div>
+21: <div id="taskData">
+22:   <%for task in @tasks %>
+23:     <div class="task-container" id="task-id<%=@tasks.id%>">
+24:       <%  if @tasks.star
+25:         starClass = :star_2
+
+    app/views/task/index.html.erb:22
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:25:38) [GET]
+Rendering template within layouts/task
+Rendering task/index
+
+ActionView::TemplateError (undefined method `each' for nil:NilClass) on line #22 of app/views/task/index.html.erb:
+19: <div id="showEdit"></div>
+20: <div class="confirm" style="display: none" title="Delete Task">Are you sure?</div>
+21: <div id="taskData">
+22:   <%for task in @tasks %>
+23:     <div class="task-container" id="task-id<%=@tasks.id%>">
+24:       <%  if @tasks.star
+25:         starClass = :star_2
+
+    app/views/task/index.html.erb:22
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:26:50) [GET]
+Rendering template within layouts/task
+Rendering task/index
+
+ActionView::TemplateError (undefined method `each' for nil:NilClass) on line #22 of app/views/task/index.html.erb:
+19: <div id="showEdit"></div>
+20: <div class="confirm" style="display: none" title="Delete Task">Are you sure?</div>
+21: <div id="taskData">
+22:   <%for task in @tasks %>
+23:     <div class="task-container" id="task-id<%=@tasks.id%>">
+24:       <%  if @tasks.star
+25:         starClass = :star_2
+
+    app/views/task/index.html.erb:22
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:27:11) [GET]
+Rendering template within layouts/task
+Rendering task/index
+
+ActionView::TemplateError (undefined method `each' for nil:NilClass) on line #22 of app/views/task/index.html.erb:
+19: <div id="showEdit"></div>
+20: <div class="confirm" style="display: none" title="Delete Task">Are you sure?</div>
+21: <div id="taskData">
+22:   <%for task in @tasks %>
+23:     <div class="task-container" id="task-id<%=task.id%>">
+24:       <%  if task.star
+25:         starClass = :star_2
+
+    app/views/task/index.html.erb:22
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:27:46) [GET]
+Rendering template within layouts/task
+Rendering task/index
+
+ActionView::TemplateError (undefined method `each' for nil:NilClass) on line #22 of app/views/task/index.html.erb:
+19: <div id="showEdit"></div>
+20: <div class="confirm" style="display: none" title="Delete Task">Are you sure?</div>
+21: <div id="taskData">
+22:   <%for task in @tasks %>
+23:     <div class="task-container" id="task-id<%=task.id%>">
+24:       <%  if task.star
+25:         starClass = :star_2
+
+    app/views/task/index.html.erb:22
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:28:00) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 180ms (View: 95, DB: 14) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:28:11) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 15ms (View: 8, DB: 45) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:28:36) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 10ms (View: 3, DB: 25) | 200 OK [http://localhost/]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-02 12:32:18) [GET]
+  Parameters: {"task_name"=>"zzz", "id"=>"37"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 20ms (View: 15, DB: 8) | 200 OK [http://localhost/task/zzz/37]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 12:32:20) [POST]
+  Parameters: {"authenticity_token"=>"eOkdqSXcc2ay60Bj4FwO7zsKnwlbpQT70uPvOKNQP4Y=", "id"=>"37"}
+Completed in 182ms (View: 2, DB: 12) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:36:28) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 15ms (View: 5, DB: 13) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:39:46) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 10ms (View: 5, DB: 5) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:40:11) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 18ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:40:43) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 10ms (View: 5, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 12:41:16) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 12ms (View: 5, DB: 3) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 16:23:03) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 121ms (View: 34, DB: 11) | 200 OK [http://localhost/]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 16:23:08) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 12ms (View: 7, DB: 64) | 200 OK [http://localhost/]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-02 16:23:09) [GET]
+  Parameters: {"task_name"=>"ssds", "id"=>"73"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 10ms (View: 8, DB: 5) | 200 OK [http://localhost/task/ssds/73]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:09) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 225ms (View: 2, DB: 55) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-02 16:23:10) [GET]
+  Parameters: {"task_name"=>"ssds", "id"=>"73"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 8ms (View: 3, DB: 6) | 200 OK [http://localhost/task/ssds/73]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:10) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 16ms (View: 1, DB: 7) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:23:25) [POST]
+  Parameters: {"task_id"=>"73", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"iuiui"}
+Completed in 70ms (View: 2, DB: 106) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:25) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 15ms (View: 1, DB: 6) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:23:26) [POST]
+  Parameters: {"task_id"=>"73", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"iuiu"}
+Completed in 18ms (View: 1, DB: 23) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:26) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 12ms (View: 1, DB: 54) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:23:27) [POST]
+  Parameters: {"task_id"=>"73", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"uu"}
+Completed in 66ms (View: 1, DB: 10) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:28) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 15ms (View: 1, DB: 57) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:23:28) [POST]
+  Parameters: {"task_id"=>"73", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"iu"}
+Completed in 15ms (View: 1, DB: 8) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:28) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 20ms (View: 0, DB: 55) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:23:30) [POST]
+  Parameters: {"task_id"=>"73", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"i"}
+Completed in 16ms (View: 0, DB: 12) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:30) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 18ms (View: 0, DB: 58) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:23:31) [POST]
+  Parameters: {"task_id"=>"73", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"i"}
+Completed in 15ms (View: 0, DB: 12) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:31) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 24ms (View: 1, DB: 58) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:23:31) [POST]
+  Parameters: {"task_id"=>"73", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>""}
+Completed in 16ms (View: 1, DB: 12) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:31) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 18ms (View: 1, DB: 48) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:23:32) [POST]
+  Parameters: {"task_id"=>"73", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"iu"}
+Completed in 12ms (View: 0, DB: 10) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:32) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 24ms (View: 0, DB: 50) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:23:34) [POST]
+  Parameters: {"task_id"=>"73", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"uiui"}
+Completed in 13ms (View: 0, DB: 8) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:23:34) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"73"}
+Completed in 20ms (View: 0, DB: 60) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 16:24:39) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 10ms (View: 6, DB: 3) | 200 OK [http://localhost/task/]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:41) [POST]
+  Parameters: {"name"=>"ytytry", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"tytyt"}
+Completed in 71ms (View: 2, DB: 63) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:44) [POST]
+  Parameters: {"name"=>"fgf", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"gfg"}
+Completed in 20ms (View: 1, DB: 12) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:45) [POST]
+  Parameters: {"name"=>"gfgf", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"fgf"}
+Completed in 18ms (View: 1, DB: 56) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:47) [POST]
+  Parameters: {"name"=>"fgf", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"gg"}
+Completed in 13ms (View: 1, DB: 62) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:49) [POST]
+  Parameters: {"name"=>"f", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"f"}
+Completed in 17ms (View: 1, DB: 54) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:50) [POST]
+  Parameters: {"name"=>"", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>""}
+Completed in 15ms (View: 1, DB: 63) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:53) [POST]
+  Parameters: {"name"=>"gfgf", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"fgfgf"}
+Completed in 19ms (View: 1, DB: 62) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:55) [POST]
+  Parameters: {"name"=>"fgfgf", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"gfg"}
+Completed in 19ms (View: 1, DB: 57) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:58) [POST]
+  Parameters: {"name"=>"gf", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"fgfgfg"}
+Completed in 16ms (View: 1, DB: 65) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:24:59) [POST]
+  Parameters: {"name"=>"fgfgf", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"fg"}
+Completed in 18ms (View: 1, DB: 61) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:25:01) [POST]
+  Parameters: {"name"=>"fgfgf", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"gfg"}
+Completed in 16ms (View: 1, DB: 59) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:25:05) [POST]
+  Parameters: {"name"=>"gfgdgd", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"fds"}
+Completed in 15ms (View: 1, DB: 64) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:25:07) [POST]
+  Parameters: {"name"=>"gdfgdfg", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"gdf"}
+Completed in 20ms (View: 0, DB: 68) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 16:26:13) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 15ms (View: 11, DB: 50) | 200 OK [http://localhost/task/]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:26:17) [POST]
+  Parameters: {"name"=>"dsds", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"sds"}
+Completed in 13ms (View: 1, DB: 6) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:26:19) [POST]
+  Parameters: {"name"=>"dsds", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"s"}
+Completed in 14ms (View: 0, DB: 65) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:26:21) [POST]
+  Parameters: {"name"=>"dsd", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"ds"}
+Completed in 12ms (View: 1, DB: 65) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:26:23) [POST]
+  Parameters: {"name"=>"ssssss", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>"s"}
+Completed in 55ms (View: 1, DB: 102) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#create (for 127.0.0.1 at 2010-06-02 16:26:26) [POST]
+  Parameters: {"name"=>"ssss", "priority"=>"0", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "description"=>""}
+Completed in 16ms (View: 1, DB: 13) | 200 OK [http://localhost/task/create]
+
+
+Processing TaskController#index (for 127.0.0.1 at 2010-06-02 16:26:28) [GET]
+Rendering template within layouts/task
+Rendering task/index
+Completed in 17ms (View: 11, DB: 45) | 200 OK [http://localhost/task/]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-02 16:26:30) [GET]
+  Parameters: {"task_name"=>"ssss", "id"=>"98"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 7ms (View: 3, DB: 3) | 200 OK [http://localhost/task/ssss/98]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:30) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 9ms (View: 1, DB: 58) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:32) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"ewew"}
+Completed in 35ms (View: 1, DB: 34) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:32) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 7ms (View: 1, DB: 4) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:33) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"wew"}
+Completed in 17ms (View: 0, DB: 13) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:33) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 15ms (View: 2, DB: 10) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:34) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"we"}
+Completed in 18ms (View: 1, DB: 6) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:34) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 6ms (View: 1, DB: 4) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:35) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"wewew"}
+Completed in 14ms (View: 0, DB: 11) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:35) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 12ms (View: 1, DB: 9) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:35) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>""}
+Completed in 10ms (View: 0, DB: 7) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:35) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 9ms (View: 1, DB: 4) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:36) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"ewe"}
+Completed in 11ms (View: 0, DB: 57) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:36) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 13ms (View: 1, DB: 49) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-02 16:26:40) [GET]
+  Parameters: {"task_name"=>"ssss", "id"=>"98"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 7ms (View: 3, DB: 4) | 200 OK [http://localhost/task/ssss/98]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:40) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 22ms (View: 0, DB: 6) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:41) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"ere"}
+Completed in 11ms (View: 0, DB: 12) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:41) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 9ms (View: 0, DB: 43) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:42) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"re"}
+Completed in 19ms (View: 1, DB: 13) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:42) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 12ms (View: 1, DB: 45) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:43) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"e"}
+Completed in 16ms (View: 1, DB: 10) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:43) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 13ms (View: 0, DB: 58) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:44) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"e"}
+Completed in 18ms (View: 0, DB: 13) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:44) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 16ms (View: 1, DB: 54) | 200 OK [http://localhost/comment/index]
+
+
+Processing CommentController#create (for 127.0.0.1 at 2010-06-02 16:26:45) [POST]
+  Parameters: {"task_id"=>"98", "authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "comment"=>"e"}
+Completed in 10ms (View: 0, DB: 8) | 200 OK [http://localhost/comment/create]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:45) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 15ms (View: 1, DB: 57) | 200 OK [http://localhost/comment/index]
+
+
+Processing TaskController#show (for 127.0.0.1 at 2010-06-02 16:26:48) [GET]
+  Parameters: {"task_name"=>"ssss", "id"=>"98"}
+Rendering template within layouts/task
+Rendering task/show
+Completed in 7ms (View: 3, DB: 4) | 200 OK [http://localhost/task/ssss/98]
+
+
+Processing CommentController#index (for 127.0.0.1 at 2010-06-02 16:26:48) [POST]
+  Parameters: {"authenticity_token"=>"1wUiwiyy2s4uBIowhv/VVW7zpi E o93ng3CtxlPrvg=", "id"=>"98"}
+Completed in 20ms (View: 1, DB: 8) | 200 OK [http://localhost/comment/index]

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/aaa/!svn/ver/17/TodoList/script
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/aaa/!svn/ver/17/TodoList/script/console
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/aaa/!svn/ver/17/TodoList/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/aaa/!svn/ver/17/TodoList/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/aaa/!svn/ver/17/TodoList/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/aaa/!svn/ver/17/TodoList/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/aaa/!svn/ver/17/TodoList/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/aaa/!svn/ver/17/TodoList/script/generate
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/aaa/!svn/ver/17/TodoList/script/plugin
+END

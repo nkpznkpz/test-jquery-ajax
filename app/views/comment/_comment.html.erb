@@ -1,0 +1,13 @@
+<div class="comment" id="comment-id'<%=h comment.id%>">
+  <div class="info">
+    <div class="thumb_avatar">
+    </div>
+  </div>
+  <div class="block">
+    <div class="name">
+      <%=link_to comment.user.name+" "+comment.user.lastname,:controller => :user,:action => :show,:id => comment.user %>
+    </div>
+    <div class="comment-data"><%=h comment.comment%></div>
+    <div class="comment-date"><%=h comment.created_at%></div>
+  </div>
+</div>

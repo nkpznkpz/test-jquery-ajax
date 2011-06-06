@@ -1,0 +1,32 @@
+class CommentController < ApplicationController
+ before_filter :protect
+  def index
+    @comments = Comment.find_all_by_task_id params[:id],:include => :user,:order => "id DESC"
+    render  :json => @comments.to_json(
+      :include => {:user => {:only=>[:id,:name,:lastname]}}
+    )
+    
+  end
+
+  def show
+  end
+
+  def create
+    if request.xhr?
+      Comment.create(){ |t|
+        t.comment = params[:comment]
+        t.user_id = session[:user_id]
+        t.task_id = params[:task_id]
+        t.created_at = DateTime.now()
+        t.updated_at = DateTime.now()
+      }
+      render :text => :success
+    else
+      render :text => :error
+    end
+  end
+  
+  def delete
+  end
+
+end

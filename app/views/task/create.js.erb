@@ -1,0 +1,11 @@
+$("#task-container").prepend("<%= escape_javascript(render(:partial => 'task',:locals=>{:comment => @task})) %>");
+$(".task-data:first").effect('highlight',{}, 3000);
+$("#btnSubmit").show();
+$(".ajax_img").hide();
+
+$(':input','#createForm')
+ .not(':button, :submit, :reset, :hidden')
+ .val('')
+ .removeAttr('checked')
+ .removeAttr('selected');
+taskIndex.starClass();

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/aaa/!svn/ver/17/TodoList/app/models
+END
+task_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/aaa/!svn/ver/17/TodoList/app/models/task_group.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/aaa/!svn/ver/20/TodoList/app/models/user.rb
+END
+task.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/aaa/!svn/ver/22/TodoList/app/models/task.rb
+END
+comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/aaa/!svn/ver/20/TodoList/app/models/comment.rb
+END
+user_task_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/aaa/!svn/ver/17/TodoList/app/models/user_task_list.rb
+END

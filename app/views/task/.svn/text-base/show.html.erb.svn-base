@@ -1,0 +1,78 @@
+<%=render :partial => "user/userbar" %>
+<br>
+<fieldset class="ui-widget ui-widget-content ui-corner-all">
+  <legend class="ui-widget ui-widget-header ui-corner-all" style="padding: 0.5em;">Task name : <%=@tasks.name%></legend>
+  <div>Description : <%=@tasks.description%></div>
+</fieldset>
+<br>
+<div style="width: 600px;margin: auto">
+  <form id="createComment" action="/comment/create" method="post">
+    <fieldset class="ui-widget ui-widget-content ui-corner-all">
+      <legend class="ui-widget ui-widget-header ui-corner-all" style="padding: 0.5em;">Comment</legend>
+      <textarea cols="80" rows="4" id="comment" class="ui-widget-content"></textarea><br>
+      <span id="btnSubmit"><input type="submit" value="save"></span>
+      <span id="ajax_img" style="display: none"><%=image_tag "ajax-loader.gif"%></span>
+      <input type="reset" value="cancel"></span>
+    </fieldset>
+  </form>  
+</div>
+<div id="comment-container">Loading comment...</div>
+<script type="text/javascript">
+  var taskShow = {};
+  $(document).ready(function(){
+    taskShow.show = function(isNew){
+      $.ajax({
+        url:"/comment/index",
+        type:"post",
+        data:"id=<%=@tasks.id%>&authenticity_token="+_token,
+        success:function(data){
+          var tmp = "";
+          if(data.length!=0){
+            for(var i=0;i<data.length;i++){
+              tmp+='<div class="comment" id="comment-id'+data[i].comment.id+'">';
+              tmp+='  <div class="info">';
+              tmp+='    <div class="thumb_avatar">';
+              tmp+='    </div>';
+              tmp+='  </div>';
+              tmp+='  <div class="block">';
+              tmp+='    <div class="name">';
+              tmp+='      <a href="/user/'+data[i].comment.user.name+'/'+data[i].comment.user.id+'">'+data[i].comment.user.name+' '+data[i].comment.user.lastname+'</a>';
+              tmp+='    </div>';
+              tmp+='    <div class="comment-data">'+data[i].comment.comment+'</div>';
+              tmp+='    <div class="comment-date">'+data[i].comment.created_at+'</div>';
+              tmp+='  </div>';
+              tmp+='</div>';
+            }
+            $("#comment-container").html(tmp);
+          }else{
+            $("#comment-container").html("<div align='center'> No Comment.</div>");
+          }
+
+          if(isNew){
+            $("#comment-container div:first").effect("highlight",{},3000);
+            $("#btnSubmit").show();
+            $("#ajax_img").hide();
+            $("#comment").val('');
+          }
+        }//end success fn
+      });
+    }//end fn show
+    taskShow.show(false);
+
+    $("#createComment").submit(function(){
+      $("#btnSubmit").hide();
+      $("#ajax_img").show();
+      var comment = $("#comment").val();
+      $.ajax({
+        url:"/comment/create",
+        type:"post",
+        data:"comment="+comment+"&task_id=<%=@tasks.id%>&authenticity_token="+_token,
+        success:function(data){
+          taskShow.show(true);
+        }
+      });
+      return false;
+    });
+  });
+
+</script>

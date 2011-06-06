@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/aaa/!svn/ver/17/TodoList/app/views/task
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/aaa/!svn/ver/24/TodoList/app/views/task/index.html.erb
+END
+set_group.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/aaa/!svn/ver/17/TodoList/app/views/task/set_group.html.erb
+END
+set_priority.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/aaa/!svn/ver/17/TodoList/app/views/task/set_priority.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/aaa/!svn/ver/24/TodoList/app/views/task/show.html.erb
+END
+delete.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/aaa/!svn/ver/17/TodoList/app/views/task/delete.html.erb
+END
+update.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/aaa/!svn/ver/17/TodoList/app/views/task/update.html.erb
+END

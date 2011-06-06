@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/aaa/!svn/ver/17/TodoList/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/aaa/!svn/ver/21/TodoList/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/aaa/!svn/ver/24/TodoList/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/aaa/!svn/ver/17/TodoList/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/aaa/!svn/ver/17/TodoList/config/environment.rb
+END

@@ -1,0 +1,21 @@
+<% form_for :task,@task,
+  :url => {:action => "update",
+  :controller => "task"},
+  :html => {:id => 'updateForm'+@task.id.to_s,:name=>'updateForm' } do |f| %>
+  <p>
+     <%= f.hidden_field :id%>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :description %><br />
+    <%= f.text_area :description,:cols => 50, :rows => 6 %>
+  </p>
+  <p>
+    <span class="btnSubmit">
+      <input type="button" value="submit" onclick="taskIndex.updateTask(<%=@task.id%>)"/>
+      <input type="reset" id="btnReset" onclick="taskIndex.hideEdit(<%=@task.id%>);"/>
+    </span>
+  </p>
+  <span class="ajax_img" style="display: none"><%=image_tag "ajax-loader.gif"%></span>
+<% end %>

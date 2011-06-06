@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/aaa/!svn/ver/17/TodoList/app/views/user
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/aaa/!svn/ver/17/TodoList/app/views/user/index.html.erb
+END
+login.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/aaa/!svn/ver/21/TodoList/app/views/user/login.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/aaa/!svn/ver/21/TodoList/app/views/user/show.html.erb
+END
+_userbar.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/aaa/!svn/ver/21/TodoList/app/views/user/_userbar.html.erb
+END
+update.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/aaa/!svn/ver/17/TodoList/app/views/user/update.html.erb
+END
+create.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/aaa/!svn/ver/17/TodoList/app/views/user/create.html.erb
+END

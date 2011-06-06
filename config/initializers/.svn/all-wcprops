@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/aaa/!svn/ver/17/TodoList/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/aaa/!svn/ver/17/TodoList/config/initializers/inflections.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/aaa/!svn/ver/17/TodoList/config/initializers/session_store.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/aaa/!svn/ver/17/TodoList/config/initializers/backtrace_silencers.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/aaa/!svn/ver/17/TodoList/config/initializers/new_rails_defaults.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/aaa/!svn/ver/17/TodoList/config/initializers/mime_types.rb
+END

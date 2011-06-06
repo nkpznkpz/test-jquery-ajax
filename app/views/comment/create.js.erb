@@ -1,0 +1,5 @@
+$("#comment-container").prepend("<%= escape_javascript(render(:partial => 'comment/comment',:locals=>{:comment => @comment})) %>");
+$(".comment:first").effect('highlight',{}, 3000);
+$("#btnSubmit").show();
+$("#ajax_img").hide();
+$("#comment_comment").val('');

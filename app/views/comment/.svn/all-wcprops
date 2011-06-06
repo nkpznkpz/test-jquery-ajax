@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/aaa/!svn/ver/20/TodoList/app/views/comment
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/aaa/!svn/ver/21/TodoList/app/views/comment/index.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/aaa/!svn/ver/20/TodoList/app/views/comment/show.html.erb
+END
+delete.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/aaa/!svn/ver/20/TodoList/app/views/comment/delete.html.erb
+END

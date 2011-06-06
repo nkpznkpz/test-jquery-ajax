@@ -1,0 +1,8 @@
+$("#task-id<%=@task.id%>").after("<%= escape_javascript(render(:partial => 'task',:locals=>{:task => @task})) %>");
+$("#task-id<%=@task.id%>").first().remove();
+$("#editForm<%=@task.id%>").slideUp('fast',function(){
+  $(this).remove();
+});
+$("#task-id<%=@task.id%>").show().effect("highlight", {}, 3000);
+$("#task-id<%=@task.id%> .task-edit").show();
+taskIndex.starClass();

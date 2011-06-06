@@ -1,0 +1,5 @@
+$("#task-id<%=@task.id%>").hide();
+$("#task-id<%=@task.id%>").after("<div id='editForm<%=@task.id%>' style='background-color: #ffccff'><%= escape_javascript(
+    render(:partial => 'updateForm',:locals=>{:task => @task})) %></div>");
+$("#editForm<%=@task.id%>").hide().slideDown('slow');
+$(".ajax_img2").hide().remove();

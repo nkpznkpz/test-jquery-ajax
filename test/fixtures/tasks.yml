@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  description: MyText
+  cr_date: 2010-05-19
+  up_date: 2010-05-19
+  owner: 1
+  priority: 1
+
+two:
+  name: MyString
+  description: MyText
+  cr_date: 2010-05-19
+  up_date: 2010-05-19
+  owner: 1
+  priority: 1

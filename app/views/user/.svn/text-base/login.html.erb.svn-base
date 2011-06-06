@@ -1,0 +1,108 @@
+<div class="ui-widget ui-widget-content ui-corner-all" style="text-align: right; padding: 4px 2px 1px 2px;">
+  <form action="/login" id="flogin" method="post">
+    <input type="hidden" value="<%= form_authenticity_token() %>" name="authenticity_token"/>
+    <span>username : <input class="ui-widget-content validate[required,custom[email],length[3,20]]" type="text" id="txtEmail" name="txtEmail"></span>
+    <span>password : <input class="ui-widget-content validate[required,length[3,20]]" type="password" id="txtPassword" name="txtPassword"></span>
+    <span id="btnLogin"><input type="submit"  value="login"></span><span id="ajax_img" style="display: none"><%=image_tag "ajax-loader.gif"   %></span>
+  </form>
+</div><br><br>
+<div>
+  <div style="width: 600px;float: left;">
+    <p id="editme3">new narak</p>
+  </div>
+  <div style="width: 300px;float: left;">
+    <form  id="fRegister" method="post" action="">
+      <input type="hidden" value="<%= form_authenticity_token() %>" name="authenticity_token"/>
+      <fieldset class="ui-widget ui-widget-content ui-corner-all">
+        <legend class="ui-widget ui-widget-header ui-corner-all" style="padding: 0.5em;">Register</legend>
+        <p>
+          <label for="name">Name : </label>
+          <input id="name" name="name" class="ui-widget-content validate[required,custom[onlyLetter]length[3,20]]" />
+        </p>
+        <p>
+          <label for="lastname">Lastname : </label>
+          <input id="lastname" name="lastname" class="ui-widget-content validate[required,custom[onlyLetter],length[3,20]]" />
+        </p>
+        <p>
+          <label for="email">Email : </label>
+          <input id="email" name="email" class="ui-widget-content validate[required,custom[email],length[3,20],ajax[ajaxEmail]]" />
+        </p>
+        <p>
+          <label for="password">Password : </label>
+          <input id="password" name="password" class="ui-widget-content validate[required,length[3,20]]" />
+        </p>
+        <p>
+          <label for="conpassword">confirm Password : </label>
+          <input id="conpassword" name="conpassword" class="ui-widget-content validate[required,length[3,20],confirm[password]]" />
+        </p>
+        <p>
+          <span id="btnRegister"><button class="submit" type="submit">Register</button></span><span id="ajax_img2" style="display: none"><%=image_tag "ajax-loader.gif"%></span>
+        </p>
+      </fieldset>
+    </form>
+  </div>
+</div>
+<script type="text/javascript">
+  // propose username by combining first- and lastname
+  $().ready(function(){
+    // validate signup form on keyup and submit
+    //  function callSuccessFunction(){alert("success executed")}
+    //  function callFailFunction(){alert("fail executed")}
+    $("#flogin").validationEngine({
+      success : function() { 
+        $("#btnLogin").hide();
+        $("#ajax_img").show();
+        $("#flogin").submit();
+      },
+      scroll:false
+    });
+    
+    $("#fRegister").validationEngine({
+      success : function() {
+        var name = $("#name").val();
+        var lastname = $("#lastname").val();
+        var email = $("#email").val();
+        var password = $("#password").val();
+
+        $("#btnRegister").hide();
+        $("#ajax_img2").show();
+
+        $.ajax({
+          url: "/user/create",
+          data:"name="+name+"&lastname="+lastname+"&email="+email+"&password="+password,
+          type:"POST",
+          success: function(result){
+            if(result=="success"){
+              $("#name").val('');
+              $("#lastname").val('');
+              $("#email").val('');
+              $("#password").val('');
+              $("#conpassword").val('');
+              $("#btnRegister").show();
+              $("#ajax_img2").hide();
+              $.validationEngine.closePrompt('.formError',true);
+              alert("register : success");
+            }else{
+              alert("register : error");
+            }
+          }
+
+        });
+      },
+      scroll:false
+    });
+
+    $(":submit,:button,input:submit").button();
+
+    $("#editme3").editInPlace({
+      url: "test.xxx",
+      value_required:true,
+      maxlength:'30',
+      saving_text:'saving...',
+      show_buttons:true,
+      success:function(html,original_element){
+
+      }
+    });
+  });
+</script>

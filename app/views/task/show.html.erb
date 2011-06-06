@@ -1,0 +1,24 @@
+<%=render :partial => "user/userbar" %>
+<br>
+<fieldset class="ui-widget ui-widget-content ui-corner-all">
+  <legend class="ui-widget ui-widget-header ui-corner-all" style="padding: 0.5em;">Task name : <%=@task.name%></legend>
+  <div>Description : <%=@task.description%></div>
+</fieldset>
+<br>
+<div style="width: 600px;margin: auto">
+  <%=render :partial => 'comment/form',:locals => {:fAction => "create"} %>
+</div>
+<div id="comment-container">
+  <%= render :partial => "comment/comment", :collection =>  @task.comments  %>
+</div>
+<script type="text/javascript">
+  var taskShow = {};
+  $(document).ready(function(){
+    $("#commentForm").submit(function(){
+      $("#btnSubmit").hide();
+      $("#ajax_img").show();
+      $.post($(this).attr('action')+'.js', $(this).serialize(),null, "script");
+      return false;
+    });    
+  });
+</script>

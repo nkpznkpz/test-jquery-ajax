@@ -1,0 +1,15 @@
+<div class="task-data" id="task-id<%=h task.id%>">
+  <%if task.star
+    starClass = :star_2
+  else
+    starClass = :star_1
+  end
+%>
+  <div class="<%=starClass%>" onclick="taskIndex.update_star(<%=h task.id%>)"></div>
+  <%=link_to h(task.name),:action => 'show',:id=>task.id%>
+  <div class="task-edit">
+    <a href="javascript:void(0);" onclick="taskIndex.edit_task(<%=h task.id%>)">[Edit]</a>
+    <a href="javascript:void(0);" onclick="taskIndex.delete_task(<%=h task.id%>)">[Delete]</a>
+  </div>
+  <div class="task-date"><%=h to_date(task.cr_date)%></div>
+</div>

@@ -1,0 +1,12 @@
+<%=render :partial => "user/userbar" %>
+<div id="createtask" style="width: 400px;margin: auto">
+  <fieldset class="ui-widget ui-widget-content ui-corner-all">
+    <legend class="ui-widget ui-widget-header ui-corner-all" style="padding: 0.5em;">Add Task</legend>
+    <%=render :partial => "createForm"%>
+  </fieldset>
+</div>
+<button id="showEdit"></button>
+<div class="confirm" style="display: none" title="Delete Task">Are you sure?</div>
+<div id="task-container">
+  <%=render :partial => "task",:collection => @tasks %>
+</div>

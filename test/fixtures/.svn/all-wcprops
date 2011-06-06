@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/aaa/!svn/ver/17/TodoList/test/fixtures
+END
+task_groups.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/aaa/!svn/ver/17/TodoList/test/fixtures/task_groups.yml
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/aaa/!svn/ver/17/TodoList/test/fixtures/users.yml
+END
+tasks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/aaa/!svn/ver/17/TodoList/test/fixtures/tasks.yml
+END
+comments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/aaa/!svn/ver/20/TodoList/test/fixtures/comments.yml
+END
+user_task_lists.yml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/aaa/!svn/ver/17/TodoList/test/fixtures/user_task_lists.yml
+END

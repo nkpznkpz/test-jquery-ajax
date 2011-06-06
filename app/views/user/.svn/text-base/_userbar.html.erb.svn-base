@@ -1,0 +1,11 @@
+<div class="ui-widget ui-widget-content ui-corner-all" style="text-align: right;">
+  <form action="/logout" id="flogin">
+    Welcome : <%=@cur_user.name+" "+@cur_user.lastname%> email : <%=@cur_user.email%>
+    <input class="logout" type="submit" value="logout">
+  </form>
+</div>
+<script type="text/javascript">
+  $().ready(function(){
+    $("input:submit,input:reset").button();
+  });
+</script>
